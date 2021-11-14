@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovAid</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>
